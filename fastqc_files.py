@@ -1,3 +1,4 @@
+#test
 import os # set up directory variables
 seq_dir ='test_dataset'
 fastqc_dir ='fastqc_out'# create output directory
